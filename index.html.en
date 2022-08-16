@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>ScooTec GmbH</title>
+     <link href="designn.css" rel="stylesheet"> 
+    
+     <style>
+       body {
+            background-image: url("ccc/546091.jpg");
+            background-repeat: no-repeat;
+            background-size: 100% auto;
+            }   
+        
+     </style>
+</head>
+
+<body>
+
+<div id="wrapper">
+        <header>
+        <p>
+        <dev>
+                <strong><h1>Welcome to ScooTec GmbH! </h1><h2> Your leading mobility company in Hamburg.</h2></strong>
+        <br>
+        </dev>
+            </p>
+            
+        </header>
+
+<div id="wrapper">
+
+
+            <nav id="steuerungoben">
+                <ul>
+                    <li><a href="index.html.en">Start</a></li>
+                    <ul>
+                        <li><a href="index.php">Account</a></li>
+                    </ul>
+                    <li><a href="calc.html">Calculation</a></li>
+
+                    
+            </nav>
+
+
+            <aside>
+                <p><b> <font color=B0E0E6> New level ride design: </font> </b>
+                    <img src="ccc/new-apollo-pro-electric-hyper-scooter-is-big-on-features-and-performance.jpg" width="155" height="116" alt="Your" />
+                    <img src="ccc/TAB_motore.jpg" width="155" height="116" alt="best" />
+                    <img src="ccc/Tab_BATTERIA_Pro1plus.jpg" width="155" height="116" alt="dream" />
+                    <img src="ccc/Tab_TELAIO_Pro1plus.jpg" width="155" height="116" alt="best" />
+
+                </p>
+            </aside>
+
+            <section>
+        <font color=B0E0E6>
+            <div>
+        
+                <h1> <font color=B0E0E6> Number one for your e-device! </font> </h1>
+            </div>
+                <p>
+                    <p>Our vision is to lead the way to seamless and sustainable e-mobility that everyone can enjoy, and at top prices!
+                        <p>
+                            <p>The E-Scooter is the perfect entry-level model for those who want to go e-mobile now - environmentally friendly, fast and cheap and with best price guarantee from E-Streetscooter.
+                                <p>Easy to use, easy to ride thanks to the larger tires and rechargeable everywhere.
+            </section>
+
+            <section>
+                <h1> <font color=B0E0E6> Your ride is just 3 steps: </font> </h1>
+                <p>
+                    <p>#1 Choose your payment model!</>
+            </section>
+
+            <section>
+                <p>
+                    <p>#2 Choose your ride value!</>
+            </section>
+
+            <section>
+                <p>
+                    <p>#3 Get your total payment! And have fun! </>
+            </section>
+        </font>
+            <br>
+<a target="_blank" class="fcc-btn" href="calc.html">Let's Start!</a>
+
+<br>
+
+<footer>
+<a href="registartion/dbinit.php">Impressum    </a> <a href="datenschutzerklaerung.html">  Data security</a>
+<p> www.scootecgmbh.mobi</p>
+
+</footer>
+
+</body>
+
+</html>
