@@ -9,8 +9,8 @@
 	<title></title>
 </head>
 <body>
-<php!
+<?php
 $con;
-
+?>
 </body>
 </html>
