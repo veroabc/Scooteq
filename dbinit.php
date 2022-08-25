@@ -15,9 +15,9 @@ $query = "SELECT  user_id, fname FROM  users";
 
 if ($stmt = $con->prepare($query)) {
     $stmt->execute();
-    $stmt->bind_result($user_id, $fname);
+    $stmt->bind_result($idusers, $name, $lastname);
     while ($stmt->fetch()) {
-        //printf("%s, %s\n", $user_id, $fname);
+        printf("%s, %s\n", $idusers, $name, $lastname);
     }
     $stmt->close();
 }
