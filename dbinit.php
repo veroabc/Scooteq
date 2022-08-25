@@ -4,7 +4,7 @@ $host="localhost";
 $port="3306";
 $user="root";
 $password="12345678";
-$dbname="sakila";
+$dbname="Test";
 
 $con = new mysqli($host, $port, $user, $password, $dbname);
 //or die ('Could not connect to the database server' . mysqli_connect_error());
